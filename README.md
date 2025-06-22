@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Store 3.0
 
 A full-featured e-commerce web application built with PHP, MySQL, HTML, CSS, and JavaScript.
@@ -57,3 +58,6 @@ A full-featured e-commerce web application built with PHP, MySQL, HTML, CSS, and
 - Backend: PHP
 - Database: MySQL
 - Server Environment: XAMPP/WAMP/LAMP
+=======
+# ecommerce-store-3.0
+>>>>>>> 0078cb6ba34e0c78c90fedbea7d3d30b3bbf60ba
